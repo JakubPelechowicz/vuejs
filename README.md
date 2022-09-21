@@ -1,6 +1,6 @@
-# projekt
+# LangList
 
-## Project setup
+## LangList setup
 ```
 npm install
 ```
